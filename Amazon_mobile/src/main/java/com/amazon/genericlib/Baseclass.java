@@ -41,7 +41,7 @@ public class Baseclass
 	 public void configAC()
 	 {
 		 driver.close();
-			System.out.println("hello");
+			System.out.println("hi");
 	 }
 
 }
